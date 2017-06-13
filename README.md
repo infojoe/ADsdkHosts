@@ -1,2 +1,2 @@
 # ADsdkHosts
-Hosts file list of Android AD SDK's for use with AdAway, DNS66 or PersonalDNSfilter
+Blocking mobile ad providers and some analytics providers missed by default adaway filters
