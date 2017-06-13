@@ -1,0 +1,72 @@
+# ADsdkHosts blocklist for AdAway, DNS66, or PersonalDNSfilter
+# Blocking mobile ad providers and some analytics providers missed by default adaway filters
+# 
+# Contribute:
+# https://github.com/infojoe/ADsdkHosts
+#
+# License:
+# CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
+#
+
+127.0.0.1 ads.avocarrot.com
+127.0.0.1 sdklogs.avocarrot.com
+127.0.0.1 admin.appnext.com
+127.0.0.1 appnext.hs.llnwd.net
+127.0.0.1 images.startappservice.com
+127.0.0.1 dts.startappservice.com
+127.0.0.1 info.static.startappservice.com
+127.0.0.1 req.startappservice.com
+127.0.0.1 video.startappservice.com
+127.0.0.1 ads.glispa.com
+127.0.0.1 vungle.com
+127.0.0.1 cdn-lb.vungle.com
+127.0.0.1 ingest.vungle.com
+127.0.0.1 api.vungle.com
+127.0.0.1 a.applovin.com
+127.0.0.1 d.applovin.com
+127.0.0.1 rt.applovin.com
+127.0.0.1 assets.applovin.com
+127.0.0.1 applvn.com
+127.0.0.1 a.applvn.com
+127.0.0.1 d.applvn.com
+127.0.0.1 rt.applvn.com
+127.0.0.1 app.appsflyer.com
+127.0.0.1 unity3d.com
+127.0.0.1 adserver.unityads.unity3d.com
+127.0.0.1 config.unityads.unity3d.com
+127.0.0.1 webview.unityads.unity3d.com
+127.0.0.1 tracking.adactioninteractive.com
+127.0.0.1 init.startappexchange.com
+127.0.0.1 www.startappexchange.com
+127.0.0.1 app.adjust.com
+127.0.0.1 sdk.adincube.com
+127.0.0.1 a3.chartboost.com
+127.0.0.1 live.chartboost.com
+127.0.0.1 t2.chartboost.com
+127.0.0.1 v3.chartboost.com
+127.0.0.1 151722.measurementapi.com
+127.0.0.1 115680.measurementapi.com
+127.0.0.1 310095.measurementapi.com
+127.0.0.1 pagead2.googlesyndication.com
+127.0.0.1 ads.aerserv.com
+127.0.0.1 debug.aerserv.com
+127.0.0.1 events.aerserv.com
+127.0.0.1 dl.hastidownload.biz
+127.0.0.1 dl.dlfile.pro
+127.0.0.1 onlineapi.youappi.com
+127.0.0.1 static.youappi.com
+127.0.0.1 sdkng.youappi.com
+127.0.0.1 native.cli.biz
+127.0.0.1 ad.leadbolt.net
+127.0.0.1 ads30.adcolony.com
+127.0.0.1 adc3-launch.adcolony.com
+127.0.0.1 events3alt.adcolony.com
+127.0.0.1 events3.adcolony.com
+127.0.0.1 wd.adcolony.com
+127.0.0.1 ad-delivery.net
+127.0.0.1 andoidtraffic.ru
+127.0.0.1 acs.adgear.com
+127.0.0.1 adbuddiz.com
+127.0.0.1 ads.brvaffs.com
+127.0.0.1 get.juicyapi.com
+127.0.0.1 ams-ads-cornerstone-creatives.s3.amazonaws.com
