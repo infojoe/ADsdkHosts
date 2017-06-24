@@ -51,6 +51,7 @@
 127.0.0.1 ads.aerserv.com
 127.0.0.1 debug.aerserv.com
 127.0.0.1 events.aerserv.com
+127.0.0.1 alpha-events.aerserv.com
 127.0.0.1 dl.hastidownload.biz
 127.0.0.1 dl.dlfile.pro
 127.0.0.1 onlineapi.youappi.com
