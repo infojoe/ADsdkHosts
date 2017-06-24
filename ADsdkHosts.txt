@@ -70,3 +70,5 @@
 127.0.0.1 ads.brvaffs.com
 127.0.0.1 get.juicyapi.com
 127.0.0.1 ams-ads-cornerstone-creatives.s3.amazonaws.com
+127.0.0.1 ads.engagefront.com
+127.0.0.1 addictivemobility.com
