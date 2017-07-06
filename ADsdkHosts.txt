@@ -74,12 +74,13 @@
 127.0.0.1 addictivemobility.com
 
 # YouTube AD hosts
+# 127.0.0.1 gstatic.com
+# 127.0.0.1 apis.google.com
 127.0.0.1 ads.doubleclick.net
 127.0.0.1 s.ytimg.com
 127.0.0.1 ad.youtube.com
 127.0.0.1 ads.youtube.com
 127.0.0.1 www.gstatic.com
-127.0.0.1 gstatic.com
 127.0.0.1 clients1.google.com
 127.0.0.1 dts.innovid.com
 127.0.0.1 googleads.g.doubleclick.net
@@ -106,7 +107,6 @@
 127.0.0.1 secure-ds.serving-sys.com
 127.0.0.1 securepubads.g.doubleclick.net
 127.0.0.1 s.youtube.com
-127.0.0.1 apis.google.com
 127.0.0.1 2975c.v.fwmrm.net
 127.0.0.1 static.doubleclick.net
 127.0.0.1 googleadservices.com
