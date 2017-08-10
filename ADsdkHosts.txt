@@ -135,4 +135,6 @@
 127.0.0.1 www.analytic-google.com
 127.0.0.1 www.googletagservices.com
 127.0.0.1 fwmrm.net
+127.0.0.1 cdn-01.yumenetworks.com
+127.0.0.1 bt1.yumenetworks.com
 127.0.0.1 innovid.com
