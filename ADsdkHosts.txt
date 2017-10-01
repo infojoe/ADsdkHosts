@@ -82,6 +82,7 @@
 127.0.0.1 ads.mopup.com
 127.0.0.1 analytics.mopup.com
 127.0.0.1 rts.mobula.sdk.duapps.com
+127.0.0.1 tools.aebc.tv
 
 # YouTube AD hosts
 # 127.0.0.1 gstatic.com
